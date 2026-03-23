@@ -53,7 +53,12 @@ Three project cards or link blocks, each with:
 - [x] Review & polish: WCAG AA contrast verified on all text pairs, footer color fixed (#587075), focus styles added for keyboard nav, HTML structure validated, accessibility checklist passed
 
 ### Next task
-**Website is functionally complete.** Remaining items are owner decisions (see blockers below). After those are resolved, the site is ready to deploy to GitHub Pages.
+- [x] Add a favicon that matches Polia branding (teal hexagon from the logo)
+- [x] Update Q-Method Tool description text
+- [x] Rename "NitroGenius" → "Nitrogenius 2"
+- [x] Update Nitrogenius 2 description text
+
+**Website is functionally complete.** Remaining items are owner decisions (see blockers below).
 
 ### Blockers / decisions needed
 - **GitHub Sponsors URL:** The footer currently links to `https://github.com/sponsors/` (placeholder). Needs the actual sponsor profile URL.
