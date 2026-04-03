@@ -13,3 +13,10 @@
 - Added `focus-within` style on cards and `focus-visible` on footer link for keyboard navigation
 - Removed redundant media query (`min-width: 640px` that redeclared existing grid)
 - Validated HTML structure (no unclosed tags) and accessibility checklist (lang, viewport, alt, aria-label, noopener)
+
+## 2026-04-03 — Session 5: Favicon update from P logo
+- Processed `polia-p-logo_focused.png` to create a clean P-shaped favicon with transparent background
+- Used saturation-based background removal to cleanly separate teal logo from gray/beige background
+- Generated optimized 32×32 PNG favicon and embedded as base64 in `index.html`
+- Updated `favicon.png` (64×64) for external reference
+- Marked all tasks complete in `goals.md`; website is functionally complete pending owner decisions on GitHub Sponsors URL and heading visibility

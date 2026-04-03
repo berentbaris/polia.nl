@@ -42,7 +42,7 @@ Three project cards or link blocks, each with:
 ---
 
 ## Current Status
-**Last updated:** 2026-03-23
+Website is functionally complete. All tasks done including favicon update.
 
 ### Completed
 - [x] Extract color palette from logo (teal range: #042a33 → #1a5962 → #a5ede9)
@@ -51,15 +51,16 @@ Three project cards or link blocks, each with:
 - [x] Fonts: DM Serif Display for headings, Inter for body
 - [x] Logo base64-embedded for zero external image dependencies
 - [x] Review & polish: WCAG AA contrast verified on all text pairs, footer color fixed (#587075), focus styles added for keyboard nav, HTML structure validated, accessibility checklist passed
-
-### Next task
 - [x] Add a favicon that matches Polia branding (teal hexagon from the logo)
 - [x] Update Q-Method Tool description text
 - [x] Rename "NitroGenius" → "Nitrogenius 2"
 - [x] Update Nitrogenius 2 description text
+- [x] Update favicon to P-shaped logo derived from `polia-p-logo_focused.png`
 
-**Website is functionally complete.** Remaining items are owner decisions (see blockers below).
+### Next task
+None — **website is functionally complete.** Remaining items are owner decisions (see blockers below).
+
+**Last updated:** 2026-04-03
 
 ### Blockers / decisions needed
-- **GitHub Sponsors URL:** The footer currently links to `https://github.com/sponsors/` (placeholder). Needs the actual sponsor profile URL.
 - **Design choice:** The logo already contains the word "Polia", so I omitted a separate `<h1>Polia</h1>` heading to avoid visual repetition. The `<h1>` is set as visually hidden (screen-reader accessible). If a visible heading is preferred below the logo, let me know.
